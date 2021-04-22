@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Shades-2
 - 👀 I’m interested in python and starting a career in programming
-- 🌱 I’m currently learning python
 - 📫 How to reach me sonnyhartney@gmail.com
 
 <!---
